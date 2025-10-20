@@ -1,1 +1,1 @@
-print("🐍 Hello from Jenkins Python Build!")
+print("Hello from Jenkins Python Build!")
